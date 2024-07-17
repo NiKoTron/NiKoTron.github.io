@@ -11,7 +11,7 @@ header:
     link: https://t.me/flounderdog
   - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Serbia, Beograd
     newLine: true
-  - text: <span class="iconify" data-icon="akar-icons:language"></span> RU(native) EN(B2)
+  - text: <span class="iconify" data-icon="akar-icons:language"></span> English, Russian
     newLine: true
 ---
 
@@ -36,11 +36,11 @@ header:
 [~P3]: **Dart 3D LUT**
   github.com/NiKoTron/dart-lut
 
-    The image processing library via 3D LUT that's written on the pure dart language.
+    The PoC image processing library via 3D LUT that's written on the pure dart language.
 
 ## Experience
 
-**Tech Lead/Principal SW Engineer**
+**Senior Flutter Developer**
   ~ FindMyKids
   ~ 2022-present
 
@@ -48,28 +48,28 @@ header:
 - Task estimation, problem solving.
 - Develop multiplatform application including whitelabel configurator for rapid publishing on GooglePlay and vk apps.
 
-**Team/Tech Lead**
+**Senior Flutter Developer / Team Lead**
   ~ iGooods
   ~ 2020-2022
 
 - The leadership of the mobile developers team. Task estimation, sprint planning. Actively participated in the hiring process, e.g. technical interviewing, hairing decision. Mentoring, 1-1 communication
 - Integrating flutter module into the native application. Code reviewing
 
-**Mobile Team Lead/SW engineer**
+**Senior Flutter Developer / Team Lead**
   ~ Talance
   ~ 2020-2021
 
 - The leadership of the mobile developers team, Mentoring. Participated in task wstimation / sprint planing.
 - Develop finance application for various customers.
 
-**Software developer**
+**Flutter Developer**
   ~ Lindenvalley GmbH
   ~ 2020-2020
 
 - Develop app for gad24.tools
 - Develop uploading library
 
-**Software developer**
+**Flutter Developer**
   ~ ООО Стрим театр
   ~ 2019-2020
 
@@ -78,7 +78,7 @@ header:
 - Code review
 - Develop break-resistant uploading library (using internally)
 
-**Principal software engineer**
+**Principal Software Engineer**
   ~ Harman International Industries
   ~ 2017 - 2019
 
@@ -86,7 +86,7 @@ header:
 - Develop and supporting Info3 based OnStar application.
 - Supporting applications in the head unit for GM cars 2019 yr.
 
-**Software developer**
+**Software Developer**
   ~ Wowworks
   ~ 2016-2017
 
@@ -94,7 +94,7 @@ header:
 - Designing API.
 - СI\CD based on bitrise.io and circle.io
 
-**Software developer**
+**Software Developer**
   ~ RTLabs
   ~ 2015-2016
 
@@ -102,13 +102,13 @@ header:
 - Develop intranet portal based on BMC Remedy.
 - Deploying and tuning testing farm for mobile devices (STF).
 
-**Software developer**
+**Software Developer**
   ~ Solution Factory
   ~ 2014-2015
 
 - Develop and support a mobile application Госуслуги [bit.ly/rurostel].
 
-**IT specialist**
+**IT Specialist**
 ~ Samara State Pension Fund
 ~ 2012-2014
 
